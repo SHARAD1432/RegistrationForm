@@ -11,7 +11,7 @@ This project demonstrates how to build a basic web application using Java EE com
 ## 📸 Screenshots
 
 ### 🖼️ 1. Registration Form UI
-![RegistrationForm].(RegUIData.JPG)
+![RegistrationForm].(RegUIAfter.JPG)
 
 ### 🖼️ 2. Success Message After Submission
 
